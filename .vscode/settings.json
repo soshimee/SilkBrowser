@@ -1,5 +1,6 @@
 {
 	"files.associations": {
 		"string": "cpp"
-	}
+	},
+	"C_Cpp.default.includePath": ["/usr/local/lib/wx/include/osx_cocoa-unicode-3.0", "/usr/local/include/wx-3.0"]
 }
