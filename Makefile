@@ -1,4 +1,4 @@
-LDFLAGS := -lcurl `wx-config --cxxflags --libs base,xml,html,core,richtext,ribbon,aui,webview`
+LDFLAGS := -lcurl `wx-config --cxxflags --libs base,xml,html,core,richtext,ribbon,aui,webview,webkit`
 CPPFLAGS:= `wx-config --cxxflags` -fPIE
 OBJECTS:= frame.o app.o
 

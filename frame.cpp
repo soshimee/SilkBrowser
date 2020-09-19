@@ -1,4 +1,4 @@
-#include "frame.h"
+#include "frame.hpp"
 
 enum { ID_Hello = 1 };
 wxBEGIN_EVENT_TABLE(SilkBrowserFrame, wxFrame) EVT_MENU(ID_Hello, SilkBrowserFrame::OnHello)

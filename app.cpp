@@ -1,5 +1,5 @@
-#include "app.h"
-#include "frame.h"
+#include "app.hpp"
+#include "frame.hpp"
 
 bool SilkBrowserApp::OnInit()
 {
